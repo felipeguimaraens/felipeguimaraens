@@ -3,7 +3,7 @@
 
 
 ## 🧰 Work
-I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development  with interessests in: embedded electronics, C/C++ languagem and games programming.
+I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development  with interessests in: embedded electronics, C/C++ languagem and low level programming.
 
 
 ## 🛠 Skills
@@ -28,7 +28,7 @@ Salesforce (Analytics CRM)
 
 🐱 Cat person.
 
-🎮 Loves games and Game art.
+🎮 Loves games and game art.
 
 ## 📖 My favorite technical books:
 
