@@ -1,9 +1,9 @@
 
-# I'm Felipe de Lucena
+# I'm Felipe Guimaraens de Lucena
 
 
 ## 🧰 Work
-I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development  with interessests in: embedded electronics, C/C++ languagem and low level programming.
+I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development with interessests in: embedded electronics, C/C++ languagem and low level programming.
 
 
 ## 🛠 Skills
