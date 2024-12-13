@@ -3,19 +3,17 @@
 
 
 ## 🧰 Work
-I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development with interessests in: embedded electronics, C/C++ languagem and low level programming.
+I'm an Brazilian IT agent with more than 5 years of experience working as IT support agent and software development with interessests in: System integration (API) development, backend development and game development.
 
 
 ## 🛠 Skills
-Python (certified with PCEP and PCAP)
+Python (certified with PCEP and PCAP), Java, C++ (Qt)
 
-C (Microcontroller and algorithms)
-
-C++ (Network programming)
+Unreal and Godot
 
 Git and Github
 
-SQL and SOQL
+SQL and NoSQL
 
 Salesforce (Analytics CRM)
 
