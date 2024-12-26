@@ -20,7 +20,7 @@ Salesforce (Analytics CRM)
 ## 🔍 About me
 👨‍🎓 Studying Computer Science at UNISINOS
 
-👨‍💻 Currently learning: Nand2Tetris ( Elements of computing systems )
+👨‍💻 Currently learning: CS50's Web Programming with Python and JavaScript (Edx)
 
 📺 Former electronics technician.
 
