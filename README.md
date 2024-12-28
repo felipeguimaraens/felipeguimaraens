@@ -7,7 +7,9 @@ I'm an Brazilian IT agent with more than 5 years of experience working as IT sup
 
 
 ## 🛠 Skills
-Python (certified with PCEP and PCAP), Java, C++ (Qt)
+API development
+
+Python (certified with PCEP and PCAP), Java, C++
 
 Unreal and Godot
 
@@ -24,11 +26,11 @@ Salesforce (Analytics CRM)
 
 📖 Reading: The Travelling Cat Chronicles by Hiro Arikawa
 
-📺 Former electronics technician.
+📺 Former electronics technician
 
-🐱 Cat person.
+🐱 Cat person
 
-🎮 Loves games and game art.
+🎮 Loves games and game art
 
 ## 📖 My favorite technical books:
 
@@ -45,3 +47,7 @@ Salesforce (Analytics CRM)
 [BeeCrowd](https://judge.beecrowd.com/en/profile/925652)
 
 [Email](mailto:felipeguimaraens@outlook.com)
+
+## Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeguimaraens&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
