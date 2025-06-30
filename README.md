@@ -22,8 +22,11 @@ Salesforce (Analytics CRM)
 ## 🔍 About me
 
 👨‍💻 Learning: PHP and Laravel framework and C++
+
 📖 Reading: Matt Stauffer - Laravel: Up & Running: A Framework for Building Modern PHP Apps
+
 🐱 Cat person
+
 🎮 Loves games and game art
 
 ## 📖 My favorite technical books:
