@@ -20,25 +20,19 @@ SQL and NoSQL
 Salesforce (Analytics CRM)
 
 ## 🔍 About me
-👨‍🎓 Studying Computer Science at UNISINOS
 
-👨‍💻 Learning: CS50's Web Programming with Python and JavaScript (Edx)
-
-📖 Reading: The Travelling Cat Chronicles by Hiro Arikawa
-
-📺 Former electronics technician
-
+👨‍💻 Learning: PHP and Laravel framework and C++
+📖 Reading: Matt Stauffer - Laravel: Up & Running: A Framework for Building Modern PHP Apps
 🐱 Cat person
-
 🎮 Loves games and game art
 
 ## 📖 My favorite technical books:
 
-1. Noam Nisan and Shimon Schocken - The Elements of Computing Systems (Finished)
-2. Andrew Tanenbaum - Computer Networks (Finished)
-3. Robert C. Seacord  - Effective C: An Introduction to Professional C Programming (Finished)
-4. Robert Nystrom - Game Programming Patterns (Finished)
-
+1. Sanjay Madhav - Game Programming Algorithms and Techniques: A Platform-Agnostic Approach (Finished)
+2. Robert Nystrom - Game Programming Patterns (Finished)
+3. Noam Nisan and Shimon Schocken - The Elements of Computing Systems (Finished)
+4. Andrew Tanenbaum - Computer Networks (Finished)
+5. Robert C. Seacord  - Effective C: An Introduction to Professional C Programming (Finished)
 
 ## 🔗 Links
 
